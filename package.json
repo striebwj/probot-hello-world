@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": "https://github.com/striebwj/probot-hello-world",
   "dependencies": {
-    "probot": "^12.2.7"
+    "probot": "^12.3.3"
   },
   "devDependencies": {
     "nock": "^13.2.9",
